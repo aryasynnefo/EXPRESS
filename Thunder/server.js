@@ -248,7 +248,7 @@
 
 import express from "express";
 const app=express();
-const port=2001;
+const port=2002;
 app.use(express.json())
 
 let info=[{id:1,name:"aparna",post:"developer"},
